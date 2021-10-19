@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  font-size: 60px;
+  font-size: 45px;
   font-style: Arial;
   font-style: italic;
   font-weight: bold  
@@ -30,4 +30,13 @@ h3 {
 
 .best {
   font-style: Helvetica;
+  font-size: 50px;
+  color: red;
+  font-weight: 900;
+}
+
+p {
+  font-style: Helvetica;
+  font-size: 40px;
+  font-weight: 700;
 }
