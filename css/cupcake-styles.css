@@ -1,6 +1,6 @@
 .flashy {
   color: pink;
-  font-style: italic;
+  font-family:fantasy;
 }
 
 body {
@@ -10,22 +10,30 @@ body {
 
 h1 {
   font-size: 90px;
-  font-style: Arial;
+  font-family: serif;
   font-weight: bold;
 }
 
 h2 {
   font-size: 60px;
   font-style: Arial;
-  font-style: italic;
+  
   font-weight: bold;
 }
 
 h3 {
   font-size: 45px;
   font-style: Arial;
-  font-style: italic;
+  
   font-weight: bold  
+}
+
+h4 {
+  font-size: 45px;
+  
+  font-style: normal;
+  font-weight: 700;
+  color: blueviolet;
 }
 
 .best {
